@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings letter to the lords: sent by the Prince On the behalfe of the Earle of Straffords. And the Lords answer to his Majestie. With the Earle of Straffords letter to His Majestie, 4. May. together with his speech upon the scaffold, and the manner of his execution.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78864</idno><idno type="EEBO-CITATION">99897009</idno>
+  <idno type="VID">136955</idno>
+  <idno type="EEBO-PROQUEST">2240938313</idno>
+  
+            <idno type="STC">Wing C2411A</idno>
+            <idno type="STC">ESTC R231273</idno>
+            <idno type="PROQUEST">99897009</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897009e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136955)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2456:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings letter to the lords: sent by the Prince On the behalfe of the Earle of Straffords. And the Lords answer to his Majestie. With the Earle of Straffords letter to His Majestie, 4. May. together with his speech upon the scaffold, and the manner of his execution.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[8+] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno Dom. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="personal_name">Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Early works to 1800.</term>
+               <term type="topical_term">Executions and executioners --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:136955:1"/>
+            <p>THE KINGS LETTER TO THE LORDS: Sent by the <hi>PRINCE.</hi>
+            </p>
+            <p>On the behalfe of the Earle of STRAFFORDS.</p>
+            <p>AND The LORDS Answer to His MAIESTIE.</p>
+            <p>With the Earle of Straffords Letter to His Majestie, 4. <hi>May.</hi>
+            </p>
+            <p>Together With his Speech upon the Scaffold, and the Manner of his Execution.</p>
+            <p>¶ Printed <hi>Anno Dom.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:136955:2"/>
+            <pb facs="tcp:136955:2"/>
+            <head>The Kings Letter to the Lords, sent by the <hi>Prince</hi> on the behalfe of the Earle of <hi>Strafford.</hi>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Did yesterday satisfie the justice of the Kingdome by passing the Bill of Attayn<g ref="char:EOLhyphen"/>der upon the Earle of <hi>Straf<g ref="char:EOLhyphen"/>ford,</hi> But mercie being as in<g ref="char:EOLhyphen"/>herent and inseparable to a King (as justice) I desire at this time in some measure, to shew that like<g ref="char:EOLhyphen"/>wise, by suffering that misfortunate Man to fulfill the naturall course of his life in a close imprisonment, yet so that if ever he make the least offer to escape, or offer directly or indirect<g ref="char:EOLhyphen"/>ly to meddle in any sort of publike businesse, especially with me, eyther by Message or Let<g ref="char:EOLhyphen"/>ter, it shall cost him his life without further processe. This (if it may be done without the discontentment of my people) will be an
+<pb facs="tcp:136955:3"/>unspeakeable contentment to me: To which end (as in the first place) I (by this Letter) doe earnestly desire your approbation, And to (in<g ref="char:EOLhyphen"/>deare it the more) have chosen him to carrie it, that of all the house is most deare to me. So I desire by a Conference you will endeavour to give the house of Commons contentment: Lik<g ref="char:EOLhyphen"/>wise assuring you that the exercising of mercie is not more pleasing to mee than to see both houses of Parliament consent for my sake, that I should moderate the severitie of the Law in so important a Case.</p>
+            <p>I will not say that your complying with me (in this my intended mercie) shall make mee more willing, but (certainely) it will make me more cheerfull in granting your just grievances, but if no lesse than his life can satisfy my people, I must say <hi>Fiat justitia.</hi> Thus againe earnestly re<g ref="char:EOLhyphen"/>commending the Consideration of my inten<g ref="char:EOLhyphen"/>tions to you, I rest</p>
+            <closer>
+               <dateline>Whitehall <date>11. of <hi>May.</hi> 1641.</date>
+               </dateline>
+               <signed>Your unalterable affe<g ref="char:EOLhyphen"/>ctionate friend. <hi>Charles Rex.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>If he must die, it were Charitie to reprive him till Saturday.</p>
+            </postscript>
+         </div>
+         <div type="summary_of_letter">
+            <pb facs="tcp:136955:3"/>
+            <head>The Answer of the Letter the 11. of <hi>May.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>His Letter (all written with the Kings own hand) we the Peeres, this day received in Parliament, delivered by the hand of the Prince, It was twice read in the House, and after serious and sad considera<g ref="char:EOLhyphen"/>tion they resolved presently to send twelve of the Peeres, messengers to the King, humbly to signifie that neither of the two intentions ex<g ref="char:EOLhyphen"/>prest in the Letter could with dutie by us, or without danger to himselfe, his dearest Con<g ref="char:EOLhyphen"/>sort the Queene, and all the young Princes their Children possibly be advised with: This be<g ref="char:EOLhyphen"/>ing accomplished; and more expression offred, his Majestie suffered no more words to come from us, but out of the fulnesse of his heart to the observance of Iustice, and for the content<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:136955:4"/>of his People, told us that what he inten<g ref="char:EOLhyphen"/>ded by his Letter, was with an <hi>If:</hi> If it may be done without discontentment to his People, if that cannot bee, <hi>I</hi> say the same againe, that <hi>I</hi> wrote <hi>Fiat Iustitia:</hi> My other intention pro<g ref="char:EOLhyphen"/>ceeding out of Charitie for a few dayes respite, was upon a certaine Information, that his estate was so distracted, that it necessarily required some few dayes for settlement thereof.</p>
+            <p>Wherunto the Lords answered, their pur<g ref="char:EOLhyphen"/>pose was to be suitors to his Majestie for favour to be shewen to his innocent Children; and if himselfe had made any Provision for them, that it might hold.</p>
+            <p>This was liking to his Majestie, who there<g ref="char:EOLhyphen"/>upon parted from the Lords. At his Majesties parting we offered up into his hands the Letter it selfe which he had sent, but he pleased to say, My Lords, what <hi>I</hi> have written to you, <hi>I</hi> shalbe content, shalbe registred by you in your House, in it you see my minde: <hi>I</hi> hope you will use it to my Honour.</p>
+            <pb facs="tcp:136955:4"/>
+            <p>
+               <hi>This, upon returne of the Lords from the King, was presently reported by the Lord Privie Seale to the House, And ordered, that these Lines should goe out with the Kings Letter: if any Coppie of the Letter were desired.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
